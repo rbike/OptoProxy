@@ -10,9 +10,9 @@
 
 // We are using a WEMOS D1
 
-#define OPTOLINK_CLASS OptolinkP300
+#define OPTOLINK_CLASS OptolinkGWG
 
-#include <OptolinkP300.hpp>
+#include <OptolinkGWG.hpp>
 
 #ifdef ESP8266
 #include <ESP8266WiFi.h>
